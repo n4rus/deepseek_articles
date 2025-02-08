@@ -66,7 +66,8 @@ The dawn of AI is not coming—**it is here**. Just as the telescope revolutioni
 
 ### **Author Note**
 For now it is clear that even so called powerful AI is not good enough to make any sense alone, meaning that competent professionals and high skilled individuals specially in science and other high end fields are far beyond what any AI can do for now, and the difference is at least some orders of magnitude. \
-The computing power is too far beyond the curve, and the optimal solution is to create an double way standard where we can feed larger chunks of data to be worked with, such as multiple scientific articles, books, databases, programs, scripts, experiments, simulations, software, and so on. As a tool that handles data – witch is way harder for a human to do – AI can help scientists sometimes, but the cunning edge is really reserved to great minds, not great AI. Our professors will be around and keep on giving for a good amount of time yet.
+
+The computing power is far beyond the curve, so we can feed larger chunks of data to be worked with, such as multiple scientific articles, books, databases, programs, scripts, experiments, simulations, software, and so on. As a tool that handles data – witch is way harder for a human to do – AI can help scientists sometimes, but the cunning edge is really reserved to great minds, not great AI. Our professors will be around and keep on giving for a good amount of time yet.
 
 **Join the revolution.**  
 
