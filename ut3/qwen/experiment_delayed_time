@@ -1,0 +1,56 @@
+Based on the knowledge base, here is a proposed experiment to test the framework presented in the documents:
+
+### Proposed Experiment: Time-Delayed Gravitational Lensing Measurement
+
+#### Objective:
+Measure lensing angle discrepancies due to source-observer time delays to test the prediction of time-delayed gravitational lensing.
+
+#### Background:
+The framework predicts that dark matter and dark energy can be reinterpreted as time-delayed electromagnetic radiation from past epochs. This leads to measurable effects in gravitational lensing due to the time delay between the emission and observation of light from distant sources.
+
+#### Prediction:
+The lensing angle discrepancy (δθ) due to source-observer time delays is given by:
+
+\[ \delta\theta = \theta_{\text{obs}} - \theta_{\text{em}} \approx \frac{3GM \Delta t}{c^3 r_{\text{em}}} \]
+
+Where:
+- \( \Delta t = \frac{r_{\text{em}}}{c} \)
+- Predict \( \delta\theta \sim 10^{-10} \) arcsec for \( r_{\text{em}} \sim 1 \) Gpc.
+
+#### Experimental Setup:
+1. **Observational Targets**:
+   - Select a sample of distant galaxies or quasars at redshifts \( z > 1 \).
+   - Ensure these sources are gravitationally lensed by intervening galaxy clusters.
+
+2. **Telescopes and Instruments**:
+   - Use high-resolution telescopes such as the James Webb Space Telescope (JWST) or the upcoming Euclid mission.
+   - Employ precise astrometric measurements to detect small angular shifts.
+
+3. **Data Collection**:
+   - Measure the observed lensing angles (\( \theta_{\text{obs}} \)) of the selected targets.
+   - Calculate the expected lensing angles (\( \theta_{\text{em}} \)) based on standard cosmological models without time-delay corrections.
+
+4. **Time Delay Calculation**:
+   - Determine the time delay (\( \Delta t \)) using the distance to the source (\( r_{\text{em}} \)) and the speed of light (\( c \)).
+
+5. **Comparison**:
+   - Compare the observed lensing angles (\( \theta_{\text{obs}} \)) with the expected angles (\( \theta_{\text{em}} \)).
+   - Calculate the discrepancy (\( \delta\theta \)) and check if it matches the predicted value of \( \sim 10^{-10} \) arcsec.
+
+#### Expected Outcome:
+- If the measured \( \delta\theta \) is consistent with the predicted value, it supports the hypothesis of time-delayed gravitational lensing and the reinterpretation of dark matter and dark energy as delayed electromagnetic radiation.
+- If not, it suggests further refinement or alternative explanations are needed.
+
+#### Additional Tests:
+1. **White Hole Thermodynamic Signatures**:
+   - Search for CMB circular polarization anomalies:
+     \[ V(\nu) = \int_{t_{\text{BB}}}^{t_0} \gamma(t)e^{-\lambda t} \sin(2\pi\nu t) dt \]
+   - Look for parity-violating modes from white hole horizons.
+
+2. **Decohered Photon Mass Detection**:
+   - Constrain \( m_\gamma \) using gamma-ray burst (GRB) spectral lags:
+     \[ \Delta t_{\text{lag}} \approx \frac{m_\gamma^2 D}{2\hbar^2 \nu^2} \]
+   - Current bounds \( m_\gamma < 10^{-27} \) eV already challenge the model unless \( \lambda \ll H_0 \).
+
+#### Conclusion:
+This experiment aims to validate or refute the novel framework by measuring specific predictions related to time-delayed gravitational lensing. Successful detection of the predicted lensing angle discrepancies would provide strong evidence for the proposed reinterpretation of dark matter and dark energy.

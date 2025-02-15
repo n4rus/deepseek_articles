@@ -1,0 +1,66 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Superconducting Magnets with Integrated Energy Recovery}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Design}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Process and Efficiency}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Thermionic Divertor with Superconducting Electrodes}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Design and Operation}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Energy Recovery}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Neutron-to-TPV Blanket System}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Design}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Performance}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Ambient Heat Absorption \046 Feedback Loop}{}% 11
+\BOOKMARK [2][-]{subsection.5.1}{Thermal Architecture}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.2}{Heat Flux and Energy Routing}{section.5}% 13
+\BOOKMARK [1][-]{section.6}{System-Wide Performance and Energy Flow}{}% 14
+\BOOKMARK [1][-]{section.7}{Key Innovations}{}% 15
+\BOOKMARK [1][-]{section.8}{Experimental Validation}{}% 16
+\BOOKMARK [1][-]{section.9}{Thermodynamic and Economic Impact}{}% 17
+\BOOKMARK [1][-]{section.10}{CAD Concept}{}% 18
+\BOOKMARK [1][-]{section.11}{Thermionic Divertor Equations}{}% 19
+\BOOKMARK [2][-]{subsection.11.1}{Modified Richardson-Dushman Equation for Superconductors}{section.11}% 20
+\BOOKMARK [2][-]{subsection.11.2}{Thermal-Electric Coupling}{section.11}% 21
+\BOOKMARK [1][-]{section.12}{SPICE and CFD Simulation Models}{}% 22
+\BOOKMARK [2][-]{subsection.12.1}{SPICE Model: Thermionic Circuit with Superconducting Electrodes}{section.12}% 23
+\BOOKMARK [2][-]{subsection.12.2}{CFD Simulation: Cryogenic Tesla Turbine}{section.12}% 24
+\BOOKMARK [2][-]{subsection.12.3}{Optimization Steps}{section.12}% 25
+\BOOKMARK [2][-]{subsection.12.4}{Coupled Thermal-Structural Analysis}{section.12}% 26
+\BOOKMARK [2][-]{subsection.12.5}{System Integration}{section.12}% 27
+\BOOKMARK [2][-]{subsection.12.6}{Conclusion of Simulation Models}{section.12}% 28
+\BOOKMARK [1][-]{section.13}{Neutron-to-TPV Conversion}{}% 29
+\BOOKMARK [2][-]{subsection.13.1}{Neutron-Photon Yield}{section.13}% 30
+\BOOKMARK [2][-]{subsection.13.2}{TPV Efficiency}{section.13}% 31
+\BOOKMARK [1][-]{section.14}{Cryogenic Energy Recovery}{}% 32
+\BOOKMARK [2][-]{subsection.14.1}{Stirling Engine Efficiency}{section.14}% 33
+\BOOKMARK [2][-]{subsection.14.2}{Tesla Turbine Performance}{section.14}% 34
+\BOOKMARK [1][-]{section.15}{Ambient Heat Absorption}{}% 35
+\BOOKMARK [2][-]{subsection.15.1}{Radiative Cooling Power}{section.15}% 36
+\BOOKMARK [2][-]{subsection.15.2}{Adsorption Chiller COP}{section.15}% 37
+\BOOKMARK [1][-]{section.16}{Thermal Diode Efficiency}{}% 38
+\BOOKMARK [2][-]{subsection.16.1}{Rectification Ratio}{section.16}% 39
+\BOOKMARK [2][-]{subsection.16.2}{Heat Flux}{section.16}% 40
+\BOOKMARK [1][-]{section.17}{Magneto-Thermal Coupling}{}% 41
+\BOOKMARK [2][-]{subsection.17.1}{Critical Current Density}{section.17}% 42
+\BOOKMARK [2][-]{subsection.17.2}{AC Loss Heat Generation}{section.17}% 43
+\BOOKMARK [1][-]{section.18}{System-Wide Efficiency}{}% 44
+\BOOKMARK [1][-]{section.19}{Key Assumptions \046 Limits}{}% 45
+\BOOKMARK [1][-]{section.20}{Conclusion}{}% 46
+\BOOKMARK [1][-]{section.21}{ANSYS Fluent and LTspice Simulation Files}{}% 47
+\BOOKMARK [2][-]{subsection.21.1}{ANSYS Fluent Case Files for Cryogenic Tesla Turbine}{section.21}% 48
+\BOOKMARK [2][-]{subsection.21.2}{LTspice Thermionic Circuit Model}{section.21}% 49
+\BOOKMARK [2][-]{subsection.21.3}{Thermal Diode COMSOL Model}{section.21}% 50
+\BOOKMARK [2][-]{subsection.21.4}{System Integration Workflow}{section.21}% 51
+\BOOKMARK [2][-]{subsection.21.5}{Experimental Correlation and Troubleshooting}{section.21}% 52
+\BOOKMARK [1][-]{section.22}{Co-Designed Superconductor \046 Energy Recovery Systems for SPARC}{}% 53
+\BOOKMARK [2][-]{subsection.22.1}{Objective}{section.22}% 54
+\BOOKMARK [2][-]{subsection.22.2}{SPARC Baseline \(2026\)}{section.22}% 55
+\BOOKMARK [2][-]{subsection.22.3}{Integrated Energy Recovery Systems}{section.22}% 56
+\BOOKMARK [3][-]{subsubsection.22.3.1}{Superconducting Thermionic Divertor}{subsection.22.3}% 57
+\BOOKMARK [3][-]{subsubsection.22.3.2}{Neutron-to-TPV Blanket}{subsection.22.3}% 58
+\BOOKMARK [3][-]{subsubsection.22.3.3}{Cryogenic Tesla Turbine}{subsection.22.3}% 59
+\BOOKMARK [3][-]{subsubsection.22.3.4}{Ambient Heat Absorption}{subsection.22.3}% 60
+\BOOKMARK [2][-]{subsection.22.4}{Performance Gains}{section.22}% 61
+\BOOKMARK [2][-]{subsection.22.5}{Technical Innovations}{section.22}% 62
+\BOOKMARK [2][-]{subsection.22.6}{Experimental Roadmap}{section.22}% 63
+\BOOKMARK [2][-]{subsection.22.7}{Challenges \046 Mitigations}{section.22}% 64
+\BOOKMARK [2][-]{subsection.22.8}{Economic Impact and Strategic Advantages}{section.22}% 65
+\BOOKMARK [2][-]{subsection.22.9}{Conclusion for SPARC Implementation}{section.22}% 66

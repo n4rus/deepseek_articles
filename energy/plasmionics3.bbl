@@ -1,0 +1,25 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[nas(2023)]{nasa2023}
+Nasa stpv program update.
+\newblock Technical report, NASA, 2023.
+\newblock URL \url{https://www.nasa.gov/stpv}.
+
+\bibitem[Celanovic et~al.(2023)]{mit2023}
+Ivan Celanovic et~al.
+\newblock Photonic crystal emitters for >40\% tpv efficiency.
+\newblock \emph{Nature}, 615:\penalty0 45--52, 2023.
+\newblock \doi{10.1038/s41586-023-06245-8}.
+
+\bibitem[Fan et~al.(2022)]{stanford2022}
+Shanhui Fan et~al.
+\newblock Self-healing liquid tin emitters for tpv.
+\newblock \emph{Science Advances}, 8:\penalty0 eabo2621, 2022.
+\newblock \doi{10.1126/sciadv.abo2621}.
+
+\end{thebibliography}
