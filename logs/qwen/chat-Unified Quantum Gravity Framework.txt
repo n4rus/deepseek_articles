@@ -1,0 +1,130 @@
+### USER
+can you remove duplicated text and reorganize it in a new latex file?
+
+### ASSISTANT
+Certainly! Below is the reorganized and deduplicated LaTeX file based on the content provided. The structure has been streamlined, and repetitive sections have been removed to ensure clarity and coherence.
+
+```latex
+\documentclass[12pt,a4paper]{article}
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\title{Unified Framework for Quantum Gravity and Cosmology}
+\author{Lucas Eduardo Jaguzewski da Silva \and DeepSeek AI}
+\date{February 4, 2025}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+We present a groundbreaking framework unifying general relativity, quantum field theory, and M-theory through an 11-dimensional quantum thermodynamic action. By treating spacetime as a dynamic information processor, we naturally incorporate the Standard Model, resolve dark sector phenomena, and address cosmological tensions such as the Hubble tension. Our model predicts observable phenomena, including 21 TeV axionic gamma-ray bursts (GRBs) and cosmic microwave background (CMB) spectral distortions at $10^{-8}$ sensitivity. This synthesis represents a paradigm shift in fundamental physics, offering a testable and mathematically rigorous foundation for understanding the universe.
+\end{abstract}
+
+\section{Introduction}
+The quest to unify general relativity (GR) and quantum mechanics (QM) has been one of the most profound challenges in theoretical physics. GR describes gravity as the curvature of spacetime caused by mass and energy, while QM governs the behavior of particles at microscopic scales. These two frameworks operate on vastly different principles, leading to inconsistencies when applied simultaneously. For example, GR predicts singularities where QM breaks down, and QM struggles to describe the large-scale structure of the universe.
+
+This manuscript introduces a novel approach to unification by treating spacetime as a dynamic information processor. In this framework, spacetime emerges from the entanglement of quantum states, and gravitational phenomena arise from the flow of quantum information. This perspective not only resolves longstanding issues in physics but also provides a natural explanation for dark matter, dark energy, and the Hubble tension.
+
+\section{Key Concepts and Background}
+Before diving into the mathematical details, let us introduce some foundational concepts:
+
+\subsection{Entanglement Entropy}
+Entanglement entropy measures the amount of quantum information shared between two subsystems. In our framework, it plays a central role in driving cosmic acceleration and resolving the nature of dark energy. Specifically, the entanglement entropy of spacetime regions generates a "vacuum pressure" that mimics the effects of dark energy.
+
+\subsection{Gravitational Waves and Gamma-Ray Bursts}
+Gravitational waves (GWs) are ripples in spacetime caused by massive accelerating objects, such as merging black holes. Gamma-ray bursts (GRBs) are intense flashes of gamma rays associated with cataclysmic events like neutron star mergers. Observations of GW170817/GRB 170817A revealed a time delay between GWs and GRBs, suggesting a coupling between these phenomena.
+
+\subsection{Calabi-Yau Manifolds}
+Calabi-Yau manifolds are six-dimensional spaces used in string theory to compactify extra dimensions. They play a crucial role in generating the Standard Model gauge group and explaining dark matter as quantum vortices.
+
+\subsection{M-Theory Fluxes}
+M-theory extends string theory to 11 dimensions and introduces fluxes, which are higher-dimensional analogs of electromagnetic fields. These fluxes stabilize the extra dimensions and generate particle physics interactions.
+
+\section{Universal Quantum Thermodynamic Action}
+The complete 11D action integrates all fundamental interactions:
+\[
+S = \int_{M_{11}} \sqrt{-g} \left( \frac{R}{16\pi G_{11}} + L_{\text{SM}} + \frac{\beta}{2} \ln \frac{S_{\text{BH}}}{S_B} \cdot T^{\mu\nu}_{(\text{GW})} T_{\mu\nu}^{(\text{GRB})} + \gamma_{\mu\nu\rho\sigma} \Psi^{\mu\nu} \Psi^{\rho\sigma} \right) d^{11}x
+\]
+
+\subsection{Derivation and Motivation}
+Each term in the action serves a specific purpose:
+\begin{itemize}
+    \item \textbf{Einstein-Hilbert Term:} Ensures compatibility with GR in the classical limit.
+    \item \textbf{Standard Model Lagrangian:} Incorporates particle physics interactions.
+    \item \textbf{GW-GRB Coupling:} Models the interaction between gravitational waves and gamma-ray bursts.
+    \item \textbf{CMB-Hubble-Entropy Term:} Resolves the Hubble tension by introducing a scale-dependent entropy ratio.
+    \item \textbf{M-Theory Fluxes:} Stabilizes extra dimensions and generates the Standard Model gauge group.
+    \item \textbf{Quantum Vortices:} Explains dark matter as quantum vortices in compactified dimensions.
+    \item \textbf{Boundary Term:} Ensures consistency with quantum mechanics and accounts for interactions at the edges of spacetime.
+\end{itemize}
+
+\section{Experimental Validation}
+\subsection{Multi-Messenger Astrophysics}
+Figure \ref{fig:gw_grb_delay} shows the time delay distribution for simulated neutron star mergers compared to the observed event GW170817/GRB 170817A. The agreement supports the GW-GRB coupling term.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{gw_grb_delay.png}
+\caption{Time delay distribution for simulated NS mergers vs. GW170817/GRB 170817A observation. Generated using Python.}
+\label{fig:gw_grb_delay}
+\end{figure}
+
+\subsection{Hubble Tension Resolution}
+The Hubble tension is resolved by relating local and CMB measurements:
+\[
+\frac{H_0^{\text{local}}}{H_0^{\text{CMB}}} = \frac{\ln(S_{\text{BH}}/S_B)|_{\text{local}}}{\ln(S_{\text{BH}}/S_B)|_{\text{CMB}}}.
+\]
+
+\subsection{Dark Matter Detection}
+Figure \ref{fig:dm_vortices} illustrates the density of quantum vortices versus galactic rotation curves. The model reproduces observed rotation curves without requiring additional free parameters.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{dm_vortices.png}
+\caption{Quantum vortex density vs. galactic rotation curves. Generated using Python.}
+\label{fig:dm_vortices}
+\end{figure}
+
+\subsection{Axion-GRB Predictions}
+Figure \ref{fig:axion_fermi} shows the predicted 21 TeV axion-GRB flux compared to Fermi-LAT constraints. Future experiments could test this prediction.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{axion_fermi.png}
+\caption{Predicted 21 TeV axion-GRB flux vs. Fermi-LAT constraints. Generated using Python.}
+\label{fig:axion_fermi}
+\end{figure}
+
+\section{Discussion}
+Our framework redefines spacetime as a quantum thermodynamic processor where:
+\begin{itemize}
+    \item Gravitational entanglement entropy drives cosmic acceleration.
+    \item Quantum information vortices in compactified dimensions manifest as dark matter.
+    \item M-theory flux quantization naturally generates particle physics.
+\end{itemize}
+
+The theory's experimental consistency across 18 orders of magnitude in energy scales suggests it represents the ultimate unification. However, further testing is needed to confirm its predictions.
+
+\section*{Supplementary Information}
+Derivations of dark matter cross-sections, flux quantization proofs, and full cosmological simulations are available at [DOI].
+
+\section*{References}
+\begin{enumerate}
+    \item LIGO/Virgo Collaboration. Phys. Rev. Lett. 119, 161101 (2017).
+    \item Planck Collaboration. A\&A 641, A6 (2020).
+    \item Gukov et al. Nucl. Phys. B 584, 69 (2000).
+    \item LUX-ZEPLIN Collaboration. Phys. Rev. Lett. 131, 041002 (2023).
+\end{enumerate}
+
+\end{document}
+```
+
+### Key Improvements:
+1. **Removed Duplicates:** Repetitive sections, such as multiple introductions or repeated explanations of terms, were consolidated.
+2. **Reorganized Structure:** The content is now logically ordered, starting with the abstract, introduction, key concepts, and progressing to the mathematical framework and experimental validation.
+3. **Figures and Labels:** Figures are included with descriptive captions and labels for easy reference.
+4. **Clarity and Coherence:** Simplified language and improved flow for better readability.
+
+Let me know if you'd like further refinements!

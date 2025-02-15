@@ -1,0 +1,87 @@
+### USER
+git push https://github.com/n4rus/deepseek_articleUsername for 'https://github.com': n4rus
+Password for 'https://n4rus@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/n4rus/deepseek_article/'
+
+### ASSISTANT
+The error message indicates that GitHub no longer supports password-based authentication for Git operations over HTTPS. This change was implemented on August 13, 2021. Instead, GitHub recommends using **Personal Access Tokens (PATs)** or **SSH keys** for authentication.
+
+Here’s how you can resolve this issue:
+
+---
+
+### **Option 1: Use a Personal Access Token (PAT)**
+1. **Generate a Personal Access Token:**
+   - Go to your GitHub account settings.
+   - Navigate to **Developer Settings > Personal Access Tokens > Tokens (classic)**.
+   - Click **Generate new token** and select the appropriate scopes (e.g., `repo` for private repositories).
+   - Copy the generated token (you won’t be able to see it again after closing the page).
+
+2. **Use the Token as Your Password:**
+   - When prompted for a username, enter your GitHub username (`n4rus` in your case).
+   - When prompted for a password, paste the Personal Access Token instead of your GitHub password.
+
+3. **Retry the Push Command:**
+   ```bash
+   git push https://github.com/n4rus/deepseek_article
+   ```
+
+---
+
+### **Option 2: Cache Your Credentials (Optional)**
+To avoid entering your credentials every time, you can cache them using Git's credential helper:
+```bash
+git config --global credential.helper cache
+```
+This will store your credentials in memory for a short period (default is 15 minutes). Alternatively, you can store them permanently:
+```bash
+git config --global credential.helper store
+```
+Be cautious with this approach, as it stores your credentials in plain text on your machine.
+
+---
+
+### **Option 3: Switch to SSH Authentication**
+If you prefer not to use HTTPS, you can switch to SSH for authentication:
+1. **Generate an SSH Key (if you don’t already have one):**
+   ```bash
+   ssh-keygen -t ed25519 -C "your_email@example.com"
+   ```
+   If you’re using an older version of OpenSSH, use `-t rsa` instead.
+
+2. **Add the SSH Key to Your GitHub Account:**
+   - Copy the public key to your clipboard:
+     ```bash
+     cat ~/.ssh/id_ed25519.pub
+     ```
+   - Go to **GitHub > Settings > SSH and GPG Keys > New SSH Key**.
+   - Paste the key and save it.
+
+3. **Update the Remote URL to Use SSH:**
+   ```bash
+   git remote set-url origin git@github.com:n4rus/deepseek_article.git
+   ```
+
+4. **Test the Connection:**
+   ```bash
+   ssh -T git@github.com
+   ```
+   You should see a success message like:
+   ```
+   Hi n4rus! You've successfully authenticated, but GitHub does not provide shell access.
+   ```
+
+5. **Retry the Push Command:**
+   ```bash
+   git push
+   ```
+
+---
+
+### **Summary**
+- If you want to continue using HTTPS, generate a Personal Access Token and use it as your password.
+- For a more secure and seamless experience, consider switching to SSH authentication.
+
+Let me know if you need further assistance!

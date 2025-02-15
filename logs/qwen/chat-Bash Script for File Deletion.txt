@@ -1,0 +1,66 @@
+### USER
+i need a bash script to delete all itens that are not .pdf .bib .tex or do not have extensions
+
+### ASSISTANT
+Certainly! Below is a Bash script that will delete all files in the current directory (and optionally its subdirectories) that do not have `.pdf`, `.bib`, or `.tex` extensions, as well as files without any extension.
+
+### Script: `cleanup.sh`
+
+```bash
+#!/bin/bash
+
+# Check if the user wants to process subdirectories as well
+if [[ "$1" == "-r" ]]; then
+    recursive="-r"
+else
+    recursive=""
+fi
+
+# Find and delete files that do not match .pdf, .bib, .tex or have no extension
+find . $recursive -type f ! \( -name "*.pdf" -o -name "*.bib" -o -name "*.tex" \) | while read -r file; do
+    # Check if the file has an extension or not
+    if [[ "$file" != *.* ]] || [[ ! "$file" =~ \.(pdf|bib|tex)$ ]]; then
+        echo "Deleting: $file"
+        rm "$file"
+    fi
+done
+```
+
+### Explanation:
+
+1. **`find` command**:
+   - The `find` command searches for files (`-type f`) in the current directory (`.`).
+   - If you pass `-r` as an argument when running the script, it will also search recursively into subdirectories.
+   - The `! \( -name "*.pdf" -o -name "*.bib" -o -name "*.tex" \)` part ensures that only files NOT matching these extensions are selected.
+
+2. **File Filtering**:
+   - Inside the loop, the script checks whether the file has no extension (`"$file" != *.*`) or doesn't end with `.pdf`, `.bib`, or `.tex` (`[[ ! "$file" =~ \.(pdf|bib|tex)$ ]]`).
+
+3. **Deletion**:
+   - Files that meet the criteria (i.e., those that don't have the specified extensions or lack an extension) are deleted using the `rm` command.
+
+4. **Recursive Option**:
+   - You can run the script with the `-r` flag to enable recursive deletion across subdirectories.
+
+### Usage:
+
+1. Save the script to a file named `cleanup.sh`.
+2. Make the script executable by running:
+   ```bash
+   chmod +x cleanup.sh
+   ```
+3. Run the script:
+   - To clean up files in the current directory only:
+     ```bash
+     ./cleanup.sh
+     ```
+   - To clean up files recursively in subdirectories:
+     ```bash
+     ./cleanup.sh -r
+     ```
+
+### Important Notes:
+- **Be cautious**: This script deletes files permanently. It's a good idea to test it on a sample directory first to ensure it behaves as expected.
+- **Backup**: Always make sure to back up important data before running scripts that delete files.
+
+Let me know if you need further assistance!

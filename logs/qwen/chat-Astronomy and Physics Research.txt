@@ -1,0 +1,549 @@
+### USER
+remove repeated entries:
+@article{LIGOVirgo2017,
+  title={GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral},
+  author={LIGO/Virgo Collaboration},
+  journal={Physical Review Letters},
+  volume={119},
+  pages={161101},
+  year={2017},
+  doi={10.1103/PhysRevLett.119.161101}
+}
+@article{Planck2020,
+  title={Planck 2018 results. VI. Cosmological parameters},
+  author={Planck Collaboration},
+  journal={Astronomy \& Astrophysics},
+  volume={641},
+  pages={A6},
+  year={2020},
+  doi={10.1051/0004-6361/201833910}
+}
+@article{Gukov2000,
+  title={CFT's from Calabi-Yau four-folds},
+  author={Gukov, Sergei and Vafa, Cumrun and Witten, Edward},
+  journal={Nuclear Physics B},
+  volume={584},
+  pages={69--108},
+  year={2000},
+  doi={10.1016/S0550-3213(00)00373-4}
+}
+@article{LUXZEPLIN2023,
+  title={Dark Matter Search Results from the LUX-ZEPLIN Experiment},
+  author={LUX-ZEPLIN Collaboration},
+  journal={Physical Review Letters},
+  volume={131},
+  pages={041002},
+  year={2023},
+  doi={10.1103/PhysRevLett.131.041002}
+}
+@article{Alcubierre1994,
+  title={The warp drive: hyper-fast travel within general relativity},
+  author={Alcubierre, Miguel},
+  journal={Classical and Quantum Gravity},
+  volume={11},
+  pages={L73--L77},
+  year={1994},
+  doi={10.1088/0264-9381/11/5/001}
+}
+@article{ITER2020,
+  title={Deuterium-Tritium Fusion: Progress and Challenges},
+  author={ITER Collaboration},
+  journal={Nature Physics},
+  volume={16},
+  pages={123--130},
+  year={2020},
+  doi={10.1038/s41567-020-0832-1}
+}
+@article{LIGO2023,
+  title     = {Observational Data from Gravitational Wave Detections},
+  author    = {{LIGO Scientific Collaboration} and {Virgo Collaboration}},
+  journal   = {Physical Review Letters},
+  year      = {2023},
+  volume    = {130},
+  pages     = {121101},
+  doi       = {10.1103/PhysRevLett.130.121101}
+}
+@article{Planck2020,
+  title     = {Planck 2018 Results VI. Cosmological Parameters},
+  author    = {{Planck Collaboration}},
+  journal   = {Astronomy \& Astrophysics},
+  year      = {2020},
+  volume    = {641},
+  pages     = {A6},
+  doi       = {10.1051/0004-6361/201833910}
+}
+@article{DES2022,
+  title     = {Dark Energy Survey Year 3 Results: Constraints on Cosmological Parameters},
+  author    = {{DES Collaboration}},
+  journal   = {Monthly Notices of the Royal Astronomical Society},
+  year      = {2022},
+  volume    = {512},
+  pages     = {3704--3721},
+  doi       = {10.1093/mnras/stac319}
+}
+@article{DESI2023,
+  title     = {First Results from the Dark Energy Spectroscopic Instrument (DESI)},
+  author    = {{DESI Collaboration}},
+  journal   = {Astrophysical Journal},
+  year      = {2023},
+  volume    = {945},
+  pages     = {123},
+  doi       = {10.3847/1538-4357/acd123}
+}
+@article{Euclid2023,
+  title     = {Euclid Mission Early Results: Insights into Dark Energy and Cosmic Structure},
+  author    = {{Euclid Collaboration}},
+  journal   = {Astronomy \& Astrophysics},
+  year      = {2023},
+  volume    = {670},
+  pages     = {A42},
+  doi       = {10.1051/0004-6361/202345678}
+}
+@article{CMB-S42023,
+  title     = {CMB-S4: Next-Generation Cosmic Microwave Background Observations},
+  author    = {{CMB-S4 Collaboration}},
+  journal   = {Journal of Cosmology and Astroparticle Physics},
+  year      = {2023},
+  volume    = {2023},
+  pages     = {045},
+  doi       = {10.1088/1475-7516/2023/05/045}
+}
+@article{LiteBIRD2023,
+  title     = {LiteBIRD: A Satellite Mission to Probe Primordial Gravitational Waves},
+  author    = {{LiteBIRD Collaboration}},
+  journal   = {Space Science Reviews},
+  year      = {2023},
+  volume    = {219},
+  pages     = {12},
+  doi       = {10.1007/s11214-023-00987-6}
+}
+@article{Kasevich2023,
+  title     = {Ultra-Cold Atom Interferometry for Testing Quantum Decoherence},
+  author    = {Kasevich, M. A. and others},
+  journal   = {Nature Physics},
+  year      = {2023},
+  volume    = {19},
+  pages     = {45--52},
+  doi       = {10.1038/s41567-023-01987-6}
+}
+@article{McGaugh2021,
+  title     = {The Radial Acceleration Relation in Galaxies},
+  author    = {McGaugh, S. S. and Lelli, F. and Schombert, J. M.},
+  journal   = {Astrophysical Journal Letters},
+  year      = {2021},
+  volume    = {910},
+  pages     = {L20},
+  doi       = {10.3847/2041-8213/abe4b0}
+}
+@article{KiDS2023,
+  title     = {Weak Lensing Measurements from the Kilo-Degree Survey (KiDS)},
+  author    = {{KiDS Collaboration}},
+  journal   = {Astronomy \& Astrophysics},
+  year      = {2023},
+  volume    = {675},
+  pages     = {A32},
+  doi       = {10.1051/0004-6361/202346789}
+}
+@article{Riess2021,
+  title     = {A Comprehensive Measurement of the Local Value of the Hubble Constant},
+  author    = {Riess, A. G. and others},
+  journal   = {Astrophysical Journal},
+  year      = {2021},
+  volume    = {934},
+  pages     = {7},
+  doi       = {10.3847/1538-4357/ac00b1}
+}
+@article{Springel2023,
+  title     = {Simulating the Cosmic Web Formation with Entropy-Driven Dynamics},
+  author    = {Springel, V. and others},
+  journal   = {Monthly Notices of the Royal Astronomical Society},
+  year      = {2023},
+  volume    = {520},
+  pages     = {1234--1245},
+  doi       = {10.1093/mnras/stad123}
+}
+@article{Kumar2015,
+  author = {Kumar, P. and Zhang, B.},
+  title = {The physics of gamma-ray bursts 
+  and relativistic jets},
+  journal = {Physics Reports},
+  volume = {561},
+  pages = {1-109},
+  year = {2015},
+  doi = {10.1016/j.physrep.2014.09.008}
+}
+@article{Meszaros2006,
+  author = {Mészáros, P.},
+  title = {Gamma-ray bursts},
+  journal = {Reports on Progress in Physics},
+  volume = {69},
+  pages = {2259},
+  year = {2006},
+  doi = {10.1088/0034-4885/69/8/R01}
+}
+
+@article{Jacobson1995,
+  author = {T. Jacobson},
+  title = {Thermodynamics of Spacetime: The Einstein Equation of State},
+  journal = {Phys. Rev. Lett.},
+  volume = {75},
+  pages = {1260},
+  year = {1995},
+  doi = {10.1103/PhysRevLett.75.1260}
+}
+@article{Verlinde2011,
+  author = {E. Verlinde},
+  title = {On the Origin of Gravity and the Laws of Newton},
+  journal = {JHEP},
+  volume = {2011},
+  pages = {29},
+  year = {2011},
+  doi = {10.1007/JHEP04(2011)029}
+}
+@article{LHAASO2021,
+  author = {LHAASO Collaboration},
+  title = {Ultra-high-energy gamma-ray emission from the Crab Nebula},
+  journal = {Science},
+  volume = {373},
+  pages = {425},
+  year = {2021},
+  doi = {10.1126/science.abg5137}
+}
+@article{HESS2020,
+  author = {H.E.S.S. Collaboration},
+  title = {Detection of a TeV Gamma-ray Burst},
+  journal = {Nature},
+  volume = {575},
+  pages = {464},
+  year = {2020},
+  doi = {10.1038/s41586-019-1743-9}
+}
+
+@article{SPARC2017,  
+  title={The SPARC galaxy rotation curve database},  
+  author={Lelli, Federico and McGaugh, Stacy S and Schombert, James M},  
+  journal={The Astronomical Journal},  
+  volume={152},  
+  number={6},  
+  pages={157},  
+  year={2017},  
+  publisher={IOP Publishing}  
+}  
+@article{CTA2023,  
+  title={The Cherenkov Telescope Array: A next-generation gamma-ray observatory},  
+  author={Acharya, B and others},  
+  journal={Astroparticle Physics},  
+  volume={43},  
+  pages={3--18},  
+  year={2023},  
+  publisher={Elsevier}  
+}  
+@article{jacobson1995,
+  author = {T. Jacobson},
+  title = {Thermodynamics of Spacetime: The Einstein Equation of State},
+  journal = {Phys. Rev. Lett.},
+  volume = {75},
+  pages = {1260},
+  year = {1995},
+  doi = {10.1103/PhysRevLett.75.1260}
+}
+@article{verlinde2011,
+  author = {E. Verlinde},
+  title = {On the Origin of Gravity and the Laws of Newton},
+  journal = {JHEP},
+  volume = {04},
+  pages = {029},
+  year = {2011},
+  doi = {10.1007/JHEP04(2011)029}
+}
+@article{lhasso2021,
+  author = {LHAASO Collaboration},
+  title = {Ultrahigh-energy photons up to 1.4 petaelectronvolts from 12 gamma-ray Galactic sources},
+  journal = {Nature},
+  volume = {594},
+  pages = {33},
+  year = {2021},
+  doi = {10.1038/s41586-021-03498-z}
+}
+@article{hess2019,
+  author = {H.E.S.S. Collaboration},
+  title = {Acceleration of Petaelectronvolt protons in the Galactic Centre},
+  journal = {Nature},
+  volume = {531},
+  pages = {476},
+  year = {2019},
+  doi = {10.1038/nature17147}
+}
+@article{grb190114c,
+  author = {MAGIC Collaboration},
+  title = {Teraelectronvolt emission from the gamma-ray burst GRB 190114C},
+  journal = {Nature},
+  volume = {575},
+  pages = {455},
+  year = {2019},
+  doi = {10.1038/s41586-019-1750-x}
+}
+
+
+### ASSISTANT
+Here is the cleaned-up list with repeated entries removed. Entries were considered duplicates if they had identical `doi` values or very similar titles/authors:
+
+```bibtex
+@article{LIGOVirgo2017,
+  title={GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral},
+  author={LIGO/Virgo Collaboration},
+  journal={Physical Review Letters},
+  volume={119},
+  pages={161101},
+  year={2017},
+  doi={10.1103/PhysRevLett.119.161101}
+}
+@article{Planck2020,
+  title={Planck 2018 results. VI. Cosmological parameters},
+  author={Planck Collaboration},
+  journal={Astronomy \& Astrophysics},
+  volume={641},
+  pages={A6},
+  year={2020},
+  doi={10.1051/0004-6361/201833910}
+}
+@article{Gukov2000,
+  title={CFT's from Calabi-Yau four-folds},
+  author={Gukov, Sergei and Vafa, Cumrun and Witten, Edward},
+  journal={Nuclear Physics B},
+  volume={584},
+  pages={69--108},
+  year={2000},
+  doi={10.1016/S0550-3213(00)00373-4}
+}
+@article{LUXZEPLIN2023,
+  title={Dark Matter Search Results from the LUX-ZEPLIN Experiment},
+  author={LUX-ZEPLIN Collaboration},
+  journal={Physical Review Letters},
+  volume={131},
+  pages={041002},
+  year={2023},
+  doi={10.1103/PhysRevLett.131.041002}
+}
+@article{Alcubierre1994,
+  title={The warp drive: hyper-fast travel within general relativity},
+  author={Alcubierre, Miguel},
+  journal={Classical and Quantum Gravity},
+  volume={11},
+  pages={L73--L77},
+  year={1994},
+  doi={10.1088/0264-9381/11/5/001}
+}
+@article{ITER2020,
+  title={Deuterium-Tritium Fusion: Progress and Challenges},
+  author={ITER Collaboration},
+  journal={Nature Physics},
+  volume={16},
+  pages={123--130},
+  year={2020},
+  doi={10.1038/s41567-020-0832-1}
+}
+@article{LIGO2023,
+  title={Observational Data from Gravitational Wave Detections},
+  author={{LIGO Scientific Collaboration} and {Virgo Collaboration}},
+  journal={Physical Review Letters},
+  year={2023},
+  volume={130},
+  pages={121101},
+  doi={10.1103/PhysRevLett.130.121101}
+}
+@article{DES2022,
+  title={Dark Energy Survey Year 3 Results: Constraints on Cosmological Parameters},
+  author={{DES Collaboration}},
+  journal={Monthly Notices of the Royal Astronomical Society},
+  year={2022},
+  volume={512},
+  pages={3704--3721},
+  doi={10.1093/mnras/stac319}
+}
+@article{DESI2023,
+  title={First Results from the Dark Energy Spectroscopic Instrument (DESI)},
+  author={{DESI Collaboration}},
+  journal={Astrophysical Journal},
+  year={2023},
+  volume={945},
+  pages={123},
+  doi={10.3847/1538-4357/acd123}
+}
+@article{Euclid2023,
+  title={Euclid Mission Early Results: Insights into Dark Energy and Cosmic Structure},
+  author={{Euclid Collaboration}},
+  journal={Astronomy \& Astrophysics},
+  year={2023},
+  volume={670},
+  pages={A42},
+  doi={10.1051/0004-6361/202345678}
+}
+@article{CMB-S42023,
+  title={CMB-S4: Next-Generation Cosmic Microwave Background Observations},
+  author={{CMB-S4 Collaboration}},
+  journal={Journal of Cosmology and Astroparticle Physics},
+  year={2023},
+  volume={2023},
+  pages={045},
+  doi={10.1088/1475-7516/2023/05/045}
+}
+@article{LiteBIRD2023,
+  title={LiteBIRD: A Satellite Mission to Probe Primordial Gravitational Waves},
+  author={{LiteBIRD Collaboration}},
+  journal={Space Science Reviews},
+  year={2023},
+  volume={219},
+  pages={12},
+  doi={10.1007/s11214-023-00987-6}
+}
+@article{Kasevich2023,
+  title={Ultra-Cold Atom Interferometry for Testing Quantum Decoherence},
+  author={Kasevich, M. A. and others},
+  journal={Nature Physics},
+  year={2023},
+  volume={19},
+  pages={45--52},
+  doi={10.1038/s41567-023-01987-6}
+}
+@article{McGaugh2021,
+  title={The Radial Acceleration Relation in Galaxies},
+  author={McGaugh, S. S. and Lelli, F. and Schombert, J. M.},
+  journal={Astrophysical Journal Letters},
+  year={2021},
+  volume={910},
+  pages={L20},
+  doi={10.3847/2041-8213/abe4b0}
+}
+@article{KiDS2023,
+  title={Weak Lensing Measurements from the Kilo-Degree Survey (KiDS)},
+  author={{KiDS Collaboration}},
+  journal={Astronomy \& Astrophysics},
+  year={2023},
+  volume={675},
+  pages={A32},
+  doi={10.1051/0004-6361/202346789}
+}
+@article{Riess2021,
+  title={A Comprehensive Measurement of the Local Value of the Hubble Constant},
+  author={Riess, A. G. and others},
+  journal={Astrophysical Journal},
+  year={2021},
+  volume={934},
+  pages={7},
+  doi={10.3847/1538-4357/ac00b1}
+}
+@article{Springel2023,
+  title={Simulating the Cosmic Web Formation with Entropy-Driven Dynamics},
+  author={Springel, V. and others},
+  journal={Monthly Notices of the Royal Astronomical Society},
+  year={2023},
+  volume={520},
+  pages={1234--1245},
+  doi={10.1093/mnras/stad123}
+}
+@article{Kumar2015,
+  title={The physics of gamma-ray bursts and relativistic jets},
+  author={Kumar, P. and Zhang, B.},
+  journal={Physics Reports},
+  volume={561},
+  pages={1-109},
+  year={2015},
+  doi={10.1016/j.physrep.2014.09.008}
+}
+@article{Meszaros2006,
+  title={Gamma-ray bursts},
+  author={Mészáros, P.},
+  journal={Reports on Progress in Physics},
+  volume={69},
+  pages={2259},
+  year={2006},
+  doi={10.1088/0034-4885/69/8/R01}
+}
+@article{Jacobson1995,
+  title={Thermodynamics of Spacetime: The Einstein Equation of State},
+  author={T. Jacobson},
+  journal={Phys. Rev. Lett.},
+  volume={75},
+  pages={1260},
+  year={1995},
+  doi={10.1103/PhysRevLett.75.1260}
+}
+@article{Verlinde2011,
+  title={On the Origin of Gravity and the Laws of Newton},
+  author={E. Verlinde},
+  journal={JHEP},
+  volume={2011},
+  pages={29},
+  year={2011},
+  doi={10.1007/JHEP04(2011)029}
+}
+@article{LHAASO2021,
+  title={Ultra-high-energy gamma-ray emission from the Crab Nebula},
+  author={LHAASO Collaboration},
+  journal={Science},
+  volume={373},
+  pages={425},
+  year={2021},
+  doi={10.1126/science.abg5137}
+}
+@article{HESS2020,
+  title={Detection of a TeV Gamma-ray Burst},
+  author={H.E.S.S. Collaboration},
+  journal={Nature},
+  volume={575},
+  pages={464},
+  year={2020},
+  doi={10.1038/s41586-019-1743-9}
+}
+@article{SPARC2017,
+  title={The SPARC galaxy rotation curve database},
+  author={Lelli, Federico and McGaugh, Stacy S and Schombert, James M},
+  journal={The Astronomical Journal},
+  volume={152},
+  number={6},
+  pages={157},
+  year={2017},
+  publisher={IOP Publishing}
+}
+@article{CTA2023,
+  title={The Cherenkov Telescope Array: A next-generation gamma-ray observatory},
+  author={Acharya, B and others},
+  journal={Astroparticle Physics},
+  volume={43},
+  pages={3--18},
+  year={2023},
+  publisher={Elsevier}
+}
+@article{lhasso2021,
+  title={Ultrahigh-energy photons up to 1.4 petaelectronvolts from 12 gamma-ray Galactic sources},
+  author={LHAASO Collaboration},
+  journal={Nature},
+  volume={594},
+  pages={33},
+  year={2021},
+  doi={10.1038/s41586-021-03498-z}
+}
+@article{hess2019,
+  title={Acceleration of Petaelectronvolt protons in the Galactic Centre},
+  author={H.E.S.S. Collaboration},
+  journal={Nature},
+  volume={531},
+  pages={476},
+  year={2019},
+  doi={10.1038/nature17147}
+}
+@article{grb190114c,
+  title={Teraelectronvolt emission from the gamma-ray burst GRB 190114C},
+  author={MAGIC Collaboration},
+  journal={Nature},
+  volume={575},
+  pages={455},
+  year={2019},
+  doi={10.1038/s41586-019-1750-x}
+}
+```
+
+### Notes:
+- Duplicate entries such as `Planck2020`, `Jacobson1995`, and `Verlinde2011` were removed based on matching DOIs or highly similar content.
+- The final list contains unique references with no repetition.

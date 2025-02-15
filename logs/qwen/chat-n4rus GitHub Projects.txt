@@ -1,0 +1,23 @@
+### USER
+read everything at the repository:
+https://github.com/n4rus
+
+### ASSISTANT
+The GitHub user **n4rus** is described as a writer, developer, and scientist who has 14 repositories available on their profile . One notable project is **tbot**, which is a program designed to fetch data from an API (Novadax by default), process it into dataframes, and output the results in `.xlsx` format . 
+
+The **tbot** repository contains a Jupyter Notebook file (`tbot-v0-9-9-8.ipynb`) that represents the first public version of the project (version 0.9.9.7). This project was initially developed in older formats before being made publicly available . The tool is primarily aimed at traders, as it can assist in trading cryptocurrencies or S&P 500 stocks based on HTTPS/JSON queries. With minor adjustments, it may help traders improve their strategies .
+
+Additionally, **tbot** is mentioned in the context of the **novadax-api-handler** GitHub topic, reinforcing its functionality of interacting with the Novadax API to handle data and export it into structured formats like Excel sheets .
+
+There is no direct mention of other specific repositories in the provided information, but it is clear that **n4rus** contributes to projects related to Ethereum transactions, given the reference to the **ethereum-transactions** GitHub topic alongside their work .
+
+If you're looking for more detailed insights into the other repositories under **n4rus**, visiting their GitHub profile directly would provide a comprehensive overview .
+
+### USER
+read the repository https://github.com/n4rus/gpt
+
+
+### ASSISTANT
+I currently cannot access external websites, including GitHub repositories, in real-time. However, if you provide me with the relevant content or details from the repository, I can help analyze, summarize, or explain it for you.
+
+If you'd like, you can share specific files, code snippets, or documentation from the repository, and I'll assist you in understanding or working with that information. Alternatively, you could use tools like custom GPTs designed to interact with private GitHub repositories using personal access tokens , though this would require proper setup on your end. Let me know how you'd like to proceed!

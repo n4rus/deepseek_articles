@@ -1,0 +1,20 @@
+### USER
+import numpy as np
+import matplotlib.pyplot as plt
+# Parameters
+r = np.linspace(0.1, 50, 500)  # Radial distance in kpc
+v_circ = np.sqrt(1 / r + 1 / r**2)  # Circular velocity model
+# Plotting
+plt.figure(figsize=(8, 6))
+plt.plot(r, v_circ, color='blue', linewidth=2, label='Quantum Vortex Model')
+plt.scatter([10, 20, 30], [0.5, 0.6, 0.55], color='red', label='Observed Data Points')
+plt.title('Quantum Vortex Density vs. Galactic Rotation Curves', fontsize=14)
+plt.xlabel('Radial Distance (kpc)', fontsize=12)
+plt.ylabel('Circular Velocity (km/s)', fontsize=12)
+plt.legend(fontsize=12)
+plt.grid(alpha=0.3)
+plt.savefig('dm_vortices.png', dpi=300)
+plt.show()
+
+### ASSISTANT
+https://cdn.qwenlm.ai/output/3bc8f3db-7401-4402-843c-453c9263d896/t2i/ac0d8ba2-184c-42c4-be9d-0bfc3031c24d/f7d618dc-b0a6-40ab-9b1e-c6822b912ba6.png
